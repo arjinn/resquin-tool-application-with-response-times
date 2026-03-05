@@ -1,1 +1,1 @@
-# resquin-tool-application-with-response-times
+# Resquin - Straightlining as a Data Quality Indicator in Multi-Item Scales
